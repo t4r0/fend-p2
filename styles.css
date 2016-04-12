@@ -1,4 +1,12 @@
 /* add your CSS here */
+body {
+  font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+h3 {
+  color: #325285;
+}
+
 .interesting-fact {
   font-style: italic;
 }
@@ -7,15 +15,20 @@
   list-style: none;
 }
 
-
 .label {
   font-weight: bold;
 }
 
 .info {
   border: 1px solid #ddd;
+  padding: 1.1em;
 }
 
 .card {
   padding: 5%;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  width: 55%;
+  margin: 5% auto;
+  box-shadow: 3px 3px 20px #ccc;
 }
