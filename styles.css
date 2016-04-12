@@ -1,0 +1,21 @@
+/* add your CSS here */
+.interesting-fact {
+  font-style: italic;
+}
+
+.general-info li {
+  list-style: none;
+}
+
+
+.label {
+  font-weight: bold;
+}
+
+.info {
+  border: 1px solid #ddd;
+}
+
+.card {
+  padding: 5%;
+}
